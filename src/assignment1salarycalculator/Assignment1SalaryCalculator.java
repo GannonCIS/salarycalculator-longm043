@@ -17,5 +17,7 @@ public class Assignment1SalaryCalculator {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    int salary1 = 100000; 
+    int hourly1 = (salary1 / 52)/40; 
     
 }
